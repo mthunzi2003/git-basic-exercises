@@ -1,0 +1,61 @@
+    1  git global --user
+    2  git global user
+    3  git --global --user
+    4  git --global user
+    5  git config --global --list
+    6  git config
+    7  [200~ git config --global user.name "Mthunzi"
+    8  git --global --user
+    9  git config --global user.name "Mthunzi"
+   10  git config --global user email "mthuunzirada@gmail.com"
+   11  git config --global user "mthunzirada@gmail.com"
+   12  git config --global user email "mthunzirada@gmail.com"
+   13  git config user.email "mthunzirada@gmail.com"
+   14  git config --global user.email "mthunzirada@gmail.com"
+   15  git config --list
+   16  cd OneDrive\ -\ Capitec\ Bank\ Ltd/
+   17  cd de
+   18  cd desktop
+   19  cd Umuzie/
+   20  mkdir git-basic-excises
+   21  ls
+   22  cd git-basic-excises/
+   23  ls
+   24  git init
+   25  ls
+   26  git status
+   27  touch README.md
+   28  ls
+   29  git status
+   30  git log
+   31  git add README.md 
+   32  git status
+   33  git reset
+   34  git reset README.md
+   35  git add README.md 
+   36  git commit -m "initial commit"
+   37  git log
+   38  nano README.md 
+   39  cat README.md 
+   40  git commit -m "second commit"
+   41  git add README.md 
+   42  git commit -m "second commit"
+   43  git log
+   44  nano README.md 
+   45  add README.md 
+   46  git add README.md 
+   47  git commit -m 'third commit'
+   48  git log
+   49  git branch 'milkshake-flavours'
+   50  git branch
+   51  git checkout milkshake-flavours 
+   52  touch milkshakes.md
+   53  nano milkshakes.md 
+   54  git add milkshakes.md 
+   55  git commit -m 'added initial flavours'
+   56  git log
+   57  q
+   58  git checkout master 
+   59  git branch history
+   60  git checkout history 
+   61  history > history.txt
